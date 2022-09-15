@@ -37,4 +37,4 @@ jobs:
         run: nuget restore BugGuardian.MVC.sln
         
       - name: Build the Solution
-        run: msbuild BugGuardian.MVC.sln
+        run: msbuild BugGuardian.MVC.sln #if build pass, add "/p:Configuration"
