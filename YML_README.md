@@ -50,4 +50,4 @@ Git add .
 Git commit -m "added release flag"
 Git push
 Github should prompt that you added the release flag
-Adde status badge![image](https://user-images.githubusercontent.com/102950299/190422473-34359b8d-f832-4585-8fce-5e79dba0a8a9.png)
+Adde status badge
